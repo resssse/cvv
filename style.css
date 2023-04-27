@@ -104,18 +104,6 @@ background-color: #f34e21;
         justify-content: center;
     }
 }
-@media(max-height:900px){
-    .home-img__img{
-        max-width: 60%;
-        padding:0%;
-        transition: 1s;
-        box-shadow: 0 0 10px #FF3903, 0 0 40px #FF3903, 0 0 #FF3903;
-        transition-delay: .2s;
-        border:solid #aaa;
-        border-radius: 4px; 
-        justify-content: center;
-    }
-}
 
 .footer{
     align-items: center;
